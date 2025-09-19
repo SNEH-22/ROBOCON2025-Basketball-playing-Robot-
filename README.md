@@ -1,6 +1,6 @@
 # 🏀 Robocon 2025 Basketball Robot
 
-![Robot Image](link-to-your-robot-image-if-available)
+
 
 ## Overview
 This project documents the design, development, and testing of a **basketball-playing robot** for **Robocon 2025**. The robot is capable of **shooting, passing, and receiving basketballs** with real-time actuation, integrating mechanical design, electronics, and control systems.
